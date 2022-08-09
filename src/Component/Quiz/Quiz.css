@@ -1,0 +1,35 @@
+.app{
+   border:2px solid black;
+   height: 550px;
+   width: 80%;
+   position: absolute;
+   left: 10%;
+   top:5%;
+   text-align: center;
+   padding: 20px;
+   box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+   border-radius: 5px;
+   background-image: url(https://images.unsplash.com/photo-1532375810709-75b1da00537c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW5kaWF8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+   background-repeat: no-repeat;
+   background-size: cover;
+   box-shadow: 1px 2px 3px 4px rbba(20,20,20,0.4);
+}
+ .question-section{
+    font-size: large;
+    margin: 40px;
+    height: 90px;
+ }
+ h1{
+   margin: -20px;
+ }
+
+ .answer-section{
+    align-items: center;
+    position: relative;
+    left: 29%;
+    margin: 30px;
+ }
+ Button{
+   width:40%;
+    background-color: black;
+ }
